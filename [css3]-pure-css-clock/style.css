@@ -194,15 +194,15 @@ div.h-pointer {
 	width  : 10px;
 	height : 100px;
 
-	-webkit-animation        : rotate 84600s infinite linear;
+	-webkit-animation        : rotate 216000s infinite linear;
 	-webkit-transform-origin : 50% 76%;
-	-moz-animation           : rotate 84600s infinite linear;
+	-moz-animation           : rotate 216000s infinite linear;
 	-moz-transform-origin    : 50% 76%;
-	-ms-animation            : rotate 84600s infinite linear;
+	-ms-animation            : rotate 216000s infinite linear;
 	-ms-transform-origin     : 50% 76%;
-	-o-animation             : rotate 84600s infinite linear;
+	-o-animation             : rotate 216000s infinite linear;
 	-o-transform-origin      : 50% 76%;
-	animation                : rotate 84600s infinite linear;
+	animation                : rotate 216000s infinite linear;
 	transform-origin         : 50% 76%;
 	background : rgb(69,72,77); /* Old browsers */
 	background : -moz-linear-gradient(left,  rgba(69,72,77,1) 0%, rgba(0,0,0,1) 100%); /* FF3.6+ */
